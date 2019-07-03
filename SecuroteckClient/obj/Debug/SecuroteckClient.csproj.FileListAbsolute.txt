@@ -1,0 +1,30 @@
+G:\Securoteck Skeleton Solution\SecuroteckClient\bin\Debug\SecuroteckClient.exe.config
+G:\Securoteck Skeleton Solution\SecuroteckClient\bin\Debug\SecuroteckClient.exe
+G:\Securoteck Skeleton Solution\SecuroteckClient\bin\Debug\SecuroteckClient.pdb
+G:\Securoteck Skeleton Solution\SecuroteckClient\obj\Debug\SecuroteckClient.csprojAssemblyReference.cache
+G:\Securoteck Skeleton Solution\SecuroteckClient\obj\Debug\SecuroteckClient.csproj.CoreCompileInputs.cache
+G:\Securoteck Skeleton Solution\SecuroteckClient\obj\Debug\SecuroteckClient.exe
+G:\Securoteck Skeleton Solution\SecuroteckClient\obj\Debug\SecuroteckClient.pdb
+G:\Securoteck Skeleton Solution\SecuroteckClient\bin\Debug\Newtonsoft.Json.dll
+G:\Securoteck Skeleton Solution\SecuroteckClient\bin\Debug\Newtonsoft.Json.xml
+G:\Securoteck Skeleton Solution\SecuroteckClient\obj\Debug\SecuroteckClient.csproj.CopyComplete
+C:\Users\Jake\Desktop\Securoteck Skeleton Solution\SecuroteckClient\bin\Debug\SecuroteckClient.exe.config
+C:\Users\Jake\Desktop\Securoteck Skeleton Solution\SecuroteckClient\bin\Debug\SecuroteckClient.exe
+C:\Users\Jake\Desktop\Securoteck Skeleton Solution\SecuroteckClient\bin\Debug\SecuroteckClient.pdb
+C:\Users\Jake\Desktop\Securoteck Skeleton Solution\SecuroteckClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jake\Desktop\Securoteck Skeleton Solution\SecuroteckClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jake\Desktop\Securoteck Skeleton Solution\SecuroteckClient\obj\Debug\SecuroteckClient.csprojAssemblyReference.cache
+C:\Users\Jake\Desktop\Securoteck Skeleton Solution\SecuroteckClient\obj\Debug\SecuroteckClient.csproj.CoreCompileInputs.cache
+C:\Users\Jake\Desktop\Securoteck Skeleton Solution\SecuroteckClient\obj\Debug\SecuroteckClient.csproj.CopyComplete
+C:\Users\Jake\Desktop\Securoteck Skeleton Solution\SecuroteckClient\obj\Debug\SecuroteckClient.exe
+C:\Users\Jake\Desktop\Securoteck Skeleton Solution\SecuroteckClient\obj\Debug\SecuroteckClient.pdb
+C:\Users\jake\Desktop\3rd Year\Distributed\Securoteck Skeleton Solution\SecuroteckClient\bin\Debug\SecuroteckClient.exe.config
+C:\Users\jake\Desktop\3rd Year\Distributed\Securoteck Skeleton Solution\SecuroteckClient\bin\Debug\SecuroteckClient.exe
+C:\Users\jake\Desktop\3rd Year\Distributed\Securoteck Skeleton Solution\SecuroteckClient\bin\Debug\SecuroteckClient.pdb
+C:\Users\jake\Desktop\3rd Year\Distributed\Securoteck Skeleton Solution\SecuroteckClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jake\Desktop\3rd Year\Distributed\Securoteck Skeleton Solution\SecuroteckClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jake\Desktop\3rd Year\Distributed\Securoteck Skeleton Solution\SecuroteckClient\obj\Debug\SecuroteckClient.csprojAssemblyReference.cache
+C:\Users\jake\Desktop\3rd Year\Distributed\Securoteck Skeleton Solution\SecuroteckClient\obj\Debug\SecuroteckClient.csproj.CoreCompileInputs.cache
+C:\Users\jake\Desktop\3rd Year\Distributed\Securoteck Skeleton Solution\SecuroteckClient\obj\Debug\SecuroteckClient.csproj.CopyComplete
+C:\Users\jake\Desktop\3rd Year\Distributed\Securoteck Skeleton Solution\SecuroteckClient\obj\Debug\SecuroteckClient.exe
+C:\Users\jake\Desktop\3rd Year\Distributed\Securoteck Skeleton Solution\SecuroteckClient\obj\Debug\SecuroteckClient.pdb
